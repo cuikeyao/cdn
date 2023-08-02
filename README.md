@@ -6,15 +6,17 @@
 
 只需以以下链接格式开头即可使用本存储库中的静态资源：
 
-https://cdn.jsdelivr.net/gh/cuikeyao/cdn/文件路径
+`https://cdn.jsdelivr.net/gh/cuikeyao/cdn/文件路径`
 
 例如：
 
+```html
 <!-- 引入存储库中的CSS文件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/文件路径/style.css">
 
 <!-- 引入存储库中的JS文件 -->
 <script src="https://cdn.jsdelivr.net/gh/cuikeyao/cdn/文件路径/script.js"></script>
+```
 
 ## 版权信息
 
